@@ -4,7 +4,11 @@ This library provides a templated Matrix class for performing various matrix ope
 
 Features
 Initialization: Create matrices from 1D or 2D vectors.
+
 Arithmetic Operations: Perform element-wise addition, subtraction, multiplication, and division.
+
 Matrix Multiplication: Multiply two matrices using the standard matrix multiplication algorithm.
+
 Transpose: Compute the transpose of a matrix.
+
 Utility Methods: Check if a matrix is a row or column vector, and convert a matrix to a string.
