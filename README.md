@@ -1,6 +1,4 @@
-Matrix Library README
-Overview
-This library provides a templated Matrix class for performing various matrix operations such as addition, subtraction, multiplication, division (by a scalar), and transposition. The Matrix class supports initialization from vectors, both 1D and 2D, and provides a rich set of operators for intuitive matrix manipulation.
+Provides a templated Matrix class for performing various matrix operations such as addition, subtraction, multiplication, division (by a scalar), and transposition. The Matrix class supports initialization from vectors, both 1D and 2D.
 
 Features
 Initialization: Create matrices from 1D or 2D vectors.
